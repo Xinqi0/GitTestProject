@@ -12,6 +12,5 @@ Hello Xinqi!
 Hello Xinqi!
 Hello Xinqi!
 Hello Xinqi!
-Hello Xinqi!
 Master and Hot-Fix add Hello Xinqi!
-# 修改远程仓库中的内容，此内容本地库中没有。
+by caiji
